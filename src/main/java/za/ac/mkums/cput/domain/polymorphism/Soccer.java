@@ -1,4 +1,4 @@
-package za.ac.mkums.cput.polymorphism;
+package za.ac.mkums.cput.domain.polymorphism;
 
 /**
  * Created by Songezo on 2016-03-14.

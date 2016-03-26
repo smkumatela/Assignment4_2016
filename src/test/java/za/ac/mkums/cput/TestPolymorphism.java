@@ -4,10 +4,10 @@ import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import za.ac.mkums.cput.polymorphism.BasketBall;
-import za.ac.mkums.cput.polymorphism.Soccer;
-import za.ac.mkums.cput.polymorphism.Sports;
-import za.ac.mkums.cput.polymorphism.Tennis;
+import za.ac.mkums.cput.domain.polymorphism.BasketBall;
+import za.ac.mkums.cput.domain.polymorphism.Soccer;
+import za.ac.mkums.cput.domain.polymorphism.Sports;
+import za.ac.mkums.cput.domain.polymorphism.Tennis;
 
 
 /**
